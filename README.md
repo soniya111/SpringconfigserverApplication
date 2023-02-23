@@ -1,0 +1,2 @@
+# SpringconfigserverApplication
+config server
